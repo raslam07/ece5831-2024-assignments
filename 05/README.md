@@ -9,3 +9,5 @@ In the 'rock-paper-scissors.py' file, I organized the practice I did in the .ipy
 When running the python file from the command line, I passed in the following argument: 'samples/paper/16.jpg'. This command line argument would be 'sys.argv[1]' as was specified in the code.
 
 After running the 'rock-paper-scissors-live.py' file, I was able to access the camera on my laptop so that the model could make real time predictions about whether my hand was either a rock, paper, or scissor. I also ran this file from the command line, and the results of this can be shown in the YouTube video I have provided the link for.
+
+Additionally, I have added the .h5 model used for inference, the image used for the testing, and the .txt file containing the labels.
