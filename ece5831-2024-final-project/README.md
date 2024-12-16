@@ -1,4 +1,4 @@
-Pre-recorded presentation video: \t
+Pre-recorded presentation video: /t
 Presentation slides:
 Report:
 Dataset:
